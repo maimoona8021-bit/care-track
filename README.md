@@ -168,9 +168,9 @@ This structure makes the application easier to maintain, understand, and extend.
 
 ![QR Screen](screenshots/qr_screen.png)
 
-### Care Guide
 
-![Care Guide Screen](screenshots/care_guide_screen.png)
+
+
 
 ---
 
@@ -215,10 +215,14 @@ Make sure the following tools are installed:
 * Android Emulator or physical Android device
 * Git
 
+
+
+
+
 ### Clone the Repository
 
 ```bash
-https://github.com/maimoona8021-bit/care-track.git
+git clone https://github.com/maimoona8021-bit/care-track.git
 ```
 
 Move into the project directory:
