@@ -1,0 +1,48 @@
+name: sehatfile
+description: "Care Track health record application."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Firebase
+  firebase_core: ^4.13.0
+  firebase_auth: ^6.5.7
+  cloud_firestore: ^6.8.0
+
+  # Google Sign In
+  google_sign_in: ^7.2.0
+
+  # Medicine reminder notifications
+  flutter_local_notifications: ^19.5.0
+  timezone: ^0.10.1
+  flutter_timezone: ^5.1.0
+  image_picker: 1.2.3
+  file_picker: 12.0.0
+  supabase_flutter: ^2.17.2
+  qr_flutter: ^4.1.0
+  pdfrx: ^2.4.7
+  share_plus: ^13.3.0
+  gal: ^2.3.3
+  mobile_scanner: ^7.4.0
+  fl_chart: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
