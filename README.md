@@ -218,7 +218,7 @@ Make sure the following tools are installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/maimoona8021-bit/care-track.git
+https://github.com/maimoona8021-bit/care-track.git
 ```
 
 Move into the project directory:
